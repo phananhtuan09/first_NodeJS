@@ -1,0 +1,2 @@
+20231003	16:46:24	1d83df3d-5c7e-422b-8547-2fff8286d451	Error: Not allowed by CORS
+20231004	08:57:06	cc0c0c2d-c7a7-465e-96dc-65ba20bcfc95	Error: ENOENT: no such file or directory, stat 'C:\Learning\NodeJS\tutorial\views\subdir\new-page.html'
